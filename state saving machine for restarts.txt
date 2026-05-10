@@ -1,0 +1,6 @@
+state saving machine for restarts
+try to harvest all kinds of save data
+any commands in consoles that could be executed
+could we pre hook the shutdown button via the registry?
+run this thing automatically on restart, just have an enable disable
+could a scheduled task through windows do this?
